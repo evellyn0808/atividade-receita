@@ -1,4 +1,5 @@
 Receita de Brownie
+
 Este repositório contém uma receita simples e prática de brownie, desenvolvida com ingredientes acessíveis e um modo de preparo direto, ideal para quem deseja preparar uma sobremesa caseira de maneira eficiente.
 
 🧾 Ingredientes
